@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hey, what's up? 👋
 
+I'm a developer since 2016, however I've got a considerable experience solving problems 🐞, creating solutions 💉 and 💻 coding in **Delphi**, **VB.net** and **C#**.
+
+Currently, I'm working on building a nice portifolio in order to show a little of my work.
+
+**My hobbies are:** 🎮 Playing video games and 🎲 board games, 📚 reading, 📼 watching movies, 🎤 singing and 🎸 playing guitar, 🏃 running, ⚽ sports and the list goes on... 😆
 <!--
 **FernandoLucius/fernandolucius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
